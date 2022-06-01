@@ -23,7 +23,7 @@ RoomCare is a room-rental service system which helps customer rent a room in one
 _You application should include a fully functional application equipped with an UI/UX design of your choice._
 _To make your applicant stand out, you may use other database technologies which are not commonly used such as SQL and MySQL._
 
-#### Administrator (Required)
+#### Administrator
 
 - [] Authentication - Include a login and logout feature.
 - [] Admins should be able to add rooms to be available for rent.
