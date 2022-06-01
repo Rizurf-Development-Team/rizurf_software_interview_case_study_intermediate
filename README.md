@@ -25,23 +25,23 @@ _To make your applicant stand out, you may use other database technologies which
 
 #### Administrator
 
-- [] Authentication - Include a login and logout feature.
-- [] Admins should be able to add rooms to be available for rent.
-- [] Admins should be able to modify any room details.
-- [] Admins should be able to display all information regarding the room.
-- [] Admins should be able to display all information about the customer.
-- [] Information displayed should be equipped with a filter and search functions.
+- [ ] Authentication - Include a login and logout feature.
+- [ ] Admins should be able to add rooms to be available for rent.
+- [ ] Admins should be able to modify any room details.
+- [ ] Admins should be able to display all information regarding the room.
+- [ ] Admins should be able to display all information about the customer.
+- [ ] Information displayed should be equipped with a filter and search functions.
 
 #### Guest
 
-- [] Authentication - Include a sign-up feature.
-- [] Customer should be able to view all rooms available for rent.
+- [ ] Authentication - Include a sign-up feature.
+- [ ] Customer should be able to view all rooms available for rent.
 
 #### Customer (Registered - User)
 
-- [] Authentication - Include a sign-up, login, and logout featurue.
-- [] Modify personal information.
-- [] View rental history.
-- [] View details of rooms available for rent.
-- [] Select and book room that are available.
-- [] Customer should be able to perform payment for confirmation on their booking.
+- [ ] Authentication - Include a sign-up, login, and logout featurue.
+- [ ] Modify personal information.
+- [ ] View rental history.
+- [ ] View details of rooms available for rent.
+- [ ] Select and book room that are available.
+- [ ] Customer should be able to perform payment for confirmation on their booking.
