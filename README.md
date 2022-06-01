@@ -16,12 +16,12 @@
 
 ### Case Study Question
 
-RoomCare is a room-rental service system which helps customer rent a room in one of their real estate property in South View Serviced Apartment. In order to enchance the user experience, the company has taken an oppurtunity to introduce a mobile application fully equipped with user functionality as shown below. Your job as a Software Engineer is to create a mobile application with the following functionalities with the help of an interesting UI.
+RoomCare is a room-rental service system which helps customer rent a room in one of their real estate property in Kuala Lumpur. In order to enchance the user experience, the company has taken an oppurtunity to introduce a mobile application fully equipped with user functionality as shown below. Your job as a Software Engineer is to create a mobile application with the following functionalities with the help of an interesting UI.
 
 ### Case Study Requirements
 
 _You application should include a fully functional application equipped with an UI/UX design of your choice._
-_To make your applicant stand out, you may use other database technologies which are not commonly used such as SQL and MySQL._
+_To make your applicant stand out, you may use other database technologies which are commonly used such as SQL and MySQL._
 
 #### Administrator
 
